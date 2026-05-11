@@ -28,11 +28,11 @@
 
 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,nodejs,mysql,git,github,docker,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,nodejs,mysql,git,github,docker,vscode,linux,lua" />
 </p>
 
 ---
 
 <p align="center">
-  🚀 Turning ideas into scripts, one project at a time
+  🚀 One project at a time
 </p>
