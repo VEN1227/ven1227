@@ -9,7 +9,7 @@
 
 🌐 Connect with me
 <p align="left">
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/VEN1227/ven1227" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
 </p>
@@ -28,7 +28,7 @@
 
 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,nodejs,mysql,git,github,docker,vscode,linux,lua" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,nodejs,mysql,git,github,vscode,lua" />
 </p>
 
 ---
